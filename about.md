@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a postdoctoral researcher in the Center for Mathematical Modeling (CMM) at the University of Chile. My research interests are systems biology and mammalian cell culture amongst other things. I'm a PhD in Chemical Engineering and Biotechnology from the University of Chile
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[njimenez[at]ing.uchile.cl](mailto:njimenez[at]ing.uchile.cl)
