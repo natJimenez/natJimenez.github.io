@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm a postdoctoral researcher in the Center for Mathematical Modeling (CMM) at the University of Chile. My research interests are systems biology and mammalian cell culture amongst other things. I'm a PhD in Chemical Engineering and Biotechnology from the University of Chile
+Assistant Professor at the Instituto de Ingeniería Biológica y Médica (IIBM) and Departamento de Ingeniería Química y Bioprocesos (DIQB) from the Pontificia Universidad Católica de Chile, focusing on systems biology and mammalian cell culture amongst other things. PhD in Chemical Engineering and Biotechnology from the University of Chile
 
 ### Contact me
 
-[njimenez[at]ing.uchile.cl](mailto:njimenez[at]ing.uchile.cl)
+[natalia.jimenez[at]uc.cl](mailto:natalia.jimenez[at]uc.cl)
